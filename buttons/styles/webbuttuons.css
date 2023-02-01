@@ -1,0 +1,66 @@
+.requestnow-button{
+  background-color:black;
+  color:white;
+  height:36px;
+  width:105px;
+  cursor:pointer;
+  margin:2px;
+
+}
+.addtocart-button{
+  background:rgb(255, 216, 20);
+  border:none;
+  height:36px;
+  width:125px;
+  border-radius:20px;
+  cursor:pointer;
+  margin:2px;
+}
+.signup-button{
+  background:rgb(26, 196, 26);
+  color:white;
+  border:none;
+  height:36px;
+  width:80px;
+  border-radius:5px;
+}
+.getstart-button{
+  background:rgba(132, 1, 255, 0.87);
+  color:white;
+  border:none;
+  height:38px;
+  width:122px;
+  border-radius:2px;
+  font-size:15px;
+  cursor:pointer;
+}
+.download-button{
+  background:white;
+  color:purple;
+  border-radius:2px;
+  border-style:solid;
+  border-width:1px;
+  height:38px;
+  width:122px;
+  border-color:purple;
+  cursor:pointer;
+}
+.applyoncompanywebsite-button{
+  background:rgb(14, 14, 214);
+  color:white;
+  border:none;
+  border-radius:15px;
+  height:27px;
+  font-size:15px;
+  cursor:pointer;
+}
+.save-button{
+  background:white;
+  color:blue;
+  border-radius:15px;
+  border-width:1px;
+  border-color:blue;
+  height:27px;
+  width:50px;
+  cursor:pointer;
+}

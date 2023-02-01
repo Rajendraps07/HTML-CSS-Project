@@ -1,0 +1,14 @@
+.one
+{
+	width:40%;
+	background-color:blue;
+	color:white;
+	float:left;
+}
+.two
+{
+	width:40%;
+	background-color:yellow;
+	float:left;
+	margin-left:5%;
+}
